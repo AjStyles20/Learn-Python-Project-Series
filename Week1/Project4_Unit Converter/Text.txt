@@ -1,0 +1,15 @@
+                Problem Statement  
+Create a CLI app that converts units (like km to miles, Celsius to Fahrenheit) based on user input.
+
+                What You'll Learn
+- Taking user input  
+- Conditional statements  
+- Basic math operations  
+- Modular code with functions
+
+
+                Sample Interaction  
+
+Choose conversion (1-4): 3  
+Enter Celsius: 25  
+25°C = 77.00°F

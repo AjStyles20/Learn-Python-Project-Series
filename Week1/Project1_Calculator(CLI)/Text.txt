@@ -1,0 +1,17 @@
+            Problem Statement
+
+Build a simple command-line calculator that performs basic arithmetic: addition, substraction, multiplication and division.
+
+            What You'll Learn
+-Taking user input
+-Writing funcutions
+-Using if/else statement
+-Handling edge cases(like division by zero)
+
+            Sample Input
+Enter Your Chioce(+, -, *, /): +
+Enter Your First Number: 4
+Enter Your Second Number: 6
+
+            Output
+Result: 10.0

@@ -1,0 +1,22 @@
+                Problem Statement
+Create a command-line To-Do List app that lets the user to add, view, and delete tasks during a session.
+
+                What You'll Learn
+-List operations in python
+-Using loops and conditionals
+-Handling user input
+-Basic CLI app logic
+
+                Sample Interaction  
+
+Choose an option (1-4): 2  
+Enter task: Learn Python  
+Task added.
+
+Choose an option (1-4): 1  
+1. Learn Python
+
+
+                Output:  
+
+Tasks listed and managed via CLI
