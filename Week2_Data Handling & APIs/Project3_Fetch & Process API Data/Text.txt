@@ -1,0 +1,31 @@
+            Problem Statement
+Write a Python script that fetches live data from a public API, processes it, and saves it to a JSON file.
+
+            What You'll Learn
+
+- Making GET requests with Python’s requests module
+- Handling API responses (JSON)
+- Parsing and saving API data
+
+
+
+            How It Works
+
+1. Sends a GET request to a public API.
+2. Parses the JSON response.
+3. Extracts user names & emails.
+4. Saves clean data into a local users.json file.
+
+            Try Modifying
+
+- Change API to fetch weather, news, or cryptocurrency prices.
+- Use query parameters to customize data.
+- Automate periodic API calls and logging.
+
+            Use Cases
+
+Collecting data for dashboards
+
+Building real-time apps
+
+Automating daily reports

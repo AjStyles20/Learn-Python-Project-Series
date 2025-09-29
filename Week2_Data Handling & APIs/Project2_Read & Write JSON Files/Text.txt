@@ -1,0 +1,24 @@
+                Problem Statement 
+Create a Python script that reads data from a JSON file, manipulates it, and writes the updated data back to a new JSON file.
+
+                What You'll Learn 
+- Working with JSON using Python's `json` module  
+- Parsing nested structures  
+- Reading & writing files  
+
+
+                How It Works 
+- Loads `data.json`  
+- Adds or updates values in the dictionary  
+- Writes the updated data to `updated_data.json`
+
+                 Try modifying 
+– Loop through a list of items  
+– Extract nested values  
+– Merge multiple JSON files  
+
+                Use Cases  
+– Handling API responses  
+– Config file updates  
+– User data storage
+
