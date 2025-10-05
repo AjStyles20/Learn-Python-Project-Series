@@ -1,0 +1,28 @@
+                Problem Statement
+Create a Python script that fetches and displays live weather info for any city using the OpenWeatherMap API.
+
+                What You'll Learn
+
+- Making API requests  
+- Reading query parameters  
+- Parsing weather data  
+- Displaying results clearly
+
+
+                    How It Works
+
+1. Sends a GET request with your city and API key.
+2. Parses JSON weather data.
+3. Displays temperature, condition, humidity & wind.
+
+                    Try Modifying
+
+- Add input() to take city from user  
+- Display more details (sunrise, pressure, etc.)  
+- Save data to a file or send alerts
+
+                    Use Cases
+
+✅ CLI weather checker  
+✅ Integrate into dashboards  
+✅ Learn API authentication & parsing
