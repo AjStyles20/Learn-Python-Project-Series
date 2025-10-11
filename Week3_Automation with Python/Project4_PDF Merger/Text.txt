@@ -1,0 +1,27 @@
+                        Problem Statement 
+Create a Python script to merge multiple PDF files into a single document — useful for reports, portfolios, or combining scanned pages.
+
+                        What You'll Learn  
+- Using PyPDF2 library  
+- File handling and automation  
+- Creating clean, merged output PDFs
+
+                        What It Does 
+1. Takes input PDFs  
+2. Merges them in order  
+3. Creates a single combined file
+
+                        Requirements  
+bash
+pip install PyPDF2
+
+
+                        Try Modifying
+- Add GUI using Tkinter  
+- Sort files by name or date  
+- Allow user input for file selection
+
+                        Use Cases  
+✅ Merge invoices or receipts  
+✅ Combine chapters into a single book  
+✅ Send bundled project documents 

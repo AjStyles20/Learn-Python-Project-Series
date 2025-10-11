@@ -1,0 +1,27 @@
+                        Problem Statement
+Create a Python script that automatically organizes files in a folder by file type — putting images, docs, videos, etc., into separate subfolders.
+
+                        What You'll Learn
+
+- File system navigation (using os)  
+- Moving files with shutil  
+- Handling file extensions  
+- Automating daily productivity tasks
+
+                        What It Does
+
+1. Scans your folder for files  
+2. Checks each file’s extension  
+3. Moves them to a matching subfolder (auto-created)
+
+                        Try Modifying
+
+- Add logging for moved files  
+- Schedule it with Task Scheduler / Cron  
+- Add GUI with Tkinter
+
+                        Use Cases
+
+✅ Clean up messy downloads folder  
+✅ Auto-sort project folders  
+✅ Boost productivity in seconds 

@@ -1,0 +1,23 @@
+                        Problem Statement
+Create a Python script that automates sending emails via SMTP — useful for reminders, reports, or alerts.
+
+                        What You'll Learn 
+- SMTP protocol basics  
+- Using smtplib & email modules  
+- Formatting HTML/text emails  
+- Sending attachments
+
+                        What It Does  
+1. Logs into your email account via SMTP  
+2. Creates a message object  
+3. Sends the email to the recipient
+
+                        Try Modifying 
+- Add file attachments  
+- Send HTML formatted messages  
+- Send bulk emails from a CSV list
+
+                        Use Cases  
+✅ Send auto reports or alerts  
+✅ Notify clients or team members  
+✅ Build your own email automation system
